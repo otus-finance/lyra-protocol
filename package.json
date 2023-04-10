@@ -9,7 +9,7 @@
   "types": "dist/test/utils/package/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lyra-finance/lyra-protocol/tree/avalon"
+    "url": "https://github.com/otus-finance/lyra-protocol"
   },
   "files": [
     "dist/artifacts/@openzeppelin/**/**/**/*.json",
